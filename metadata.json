@@ -1,0 +1,6 @@
+{
+  "name": "Predictor de Flujo de Caja - Aiko Repuestos",
+  "description": "Sistema integrado de predicción y mantenimiento inteligente del flujo de caja para ventas a crédito en Aiko Repuestos. Diseñado para la visualización de tesis de grado, que incluye informes técnicos de arquitectura, opciones de layouts UX/UI, registros históricos y configuración de modelos Prophet/PySpark.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
